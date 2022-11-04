@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bkaye-ox
-- 🌱 I am interested in machine learning 
+- I am a Control and Data Systems Engineer in Oxford
+- I experiment with machine learning!
 
 
 <!---
